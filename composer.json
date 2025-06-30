@@ -9,6 +9,7 @@
     "php": "^8.2",
     "ext-mbstring": "*",
     "ext-pdo": "*",
+    "ext-pdo_pgsql": "*",
     "ext-pdo_mysql": "*",
     "ext-zip": "*",
     "ext-gd": "*",
